@@ -1,0 +1,85 @@
+p{
+	color:yellow;
+	font-size:20px;
+}
+
+video{
+	position: relative;
+	margin-right:10px;
+}
+	
+.listitem {
+	color:yellow;
+	font-size:20px;
+ }	
+ .paragraph {
+ 	color:pink;
+ 	font-size:20em;
+ }
+ 
+ .pl{
+ 	color:#A3A300;
+ 	font-size:3em;
+ }
+
+ #background {
+ 	background-color:purple;
+ 	color:white;
+ } 
+ #button {
+ 	width:300px;
+ 	height:150px;
+ 	color:white;
+ 	background-color:black;
+ 	border-radius:15px;
+ }
+
+ .navitem {
+ 	list-style-type:none;
+ 	display:inline;
+ 	 padding-right:1.5em;
+}
+
+#navemenu {
+  width:250px;
+  height:30px;
+  margin:auto;
+}
+ .fun-trivia{
+ 	border:12px white double;
+ 	padding-left:25px;
+ 	margin-left:25px;
+ }
+
+a:link{
+  color:pink;
+}
+ 
+a:visited{
+  color:blue;
+}
+
+a:hover{
+  color:purple;
+}
+
+a:active{
+	color:white;
+}
+ .om {
+ 	color:#fab112;
+ 	text-decoration: underline; 
+ }
+
+#rightside{
+	float: right;
+	width: 50%;
+ } 
+
+ #leftside{
+ 	width: 50%;
+ }
+
+ #clrfloat{
+ 	clear:both;
+ }
